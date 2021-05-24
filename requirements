@@ -1,0 +1,12 @@
+
+python 3.6
+nltk
+numpy
+tflearn
+tensorflow
+
+gtts
+playsound
+speechrecognition
+pipwin
+pyaudio
